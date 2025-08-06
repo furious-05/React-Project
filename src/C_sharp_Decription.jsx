@@ -10,7 +10,7 @@ export default function C_sharp_Decription(){
     <h1 className="rounded-lg text-lg md:text-xl m-2">C#</h1>
     <pre className="m-2 text-xs md:text-sm overflow-auto">
       {`
-using System;
+using System; hello
 class Program
 {
     static void Main()
