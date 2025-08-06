@@ -4,6 +4,12 @@ A React application built with Vite, deployed on GitHub Pages.
 
 ---
 
+##  Hosted On
+
+**GitHub Pages:** [https://furious-05.github.io/React-Project](https://furious-05.github.io/React-Project)
+
+---
+
 ##  Clone the Repository
 
 ```bash
