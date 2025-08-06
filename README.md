@@ -62,6 +62,4 @@ https://furious-05.github.io/React-Project
 
 *Happy coding!* 🎉
 
-```
-
 
